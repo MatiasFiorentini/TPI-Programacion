@@ -11,10 +11,10 @@ Datos de la Universidad y la cátedra:
 - Datos de profesores: Sofía Fernández
 - Comisión: N° 13
 
-Integrante.
+Integrante:
 - Matías Fiorentini (trabajo realizado de forma individual)
 
-Instrucciones de ejecución
+Instrucciones de ejecución:
 - Requisito: Python 3.10 o superior (el menú usa match/case, disponible desde esa versión).
 - git clone https://github.com/MatiasFiorentini/TPI-Programacion.git
 - cd TPI-Programacion
