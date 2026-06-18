@@ -18,7 +18,7 @@ Integrante:
 Instrucciones de ejecución:
 - Requisito: Python 3.10 o superior (el menú usa match/case, disponible desde esa versión).
 - git clone https://github.com/MatiasFiorentini/TPI-Programacion.git
-- cd TPI-Programacion
+- cd TPI Programacion
 - python Gestion_Paises.py
 
 Links a video y repositorio GitHub:
