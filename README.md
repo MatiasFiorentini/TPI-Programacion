@@ -9,10 +9,11 @@ Datos de la Universidad y la cátedra:
 - Carrera: Tecnicatura Universitaria en Programación a Distancia
 - Materia: Programación 1
 - Datos de profesores: Sofía Fernández
-- Comisión: N° 13
 
 Integrante:
 - Matías Fiorentini (trabajo realizado de forma individual)
+- Comisión: N° 13
+- Grupo 281
 
 Instrucciones de ejecución:
 - Requisito: Python 3.10 o superior (el menú usa match/case, disponible desde esa versión).
