@@ -23,4 +23,4 @@ Instrucciones de ejecución:
 
 Links a video y repositorio GitHub:
 - Repositorio: https://github.com/MatiasFiorentini/TPI-Programacion
-- Video demostrativo: https://youtu.be/jgGCRCG8U00
+- Video demostrativo: https://www.youtube.com/watch?v=hVXBnw7wg00&feature=youtu.be
